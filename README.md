@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Associate Software Engineer → AI Enthusiast<br>🚀 Machine Learning Explorer | Tech Lover<br><br>🔍 Interested in:<br><br>🤖 AI & Machine Learning<br>📊 Data Science<br>📡 Deep Learning<br>📝 NLP & Generative AI<br>🏗️ Open Source Contributions
+💻 Aspiring Data Scientist | Former Associate Software Engineer<br>🚀 Machine Learning Explorer | Tech Lover<br><br>🔍 Interested in:<br><br>🤖 AI & Machine Learning<br>📊 Data Science<br>📡 Deep Learning<br>📝 NLP & Generative AI<br>🏗️ Open Source Contributions
 
 
 ## 🌐 Socials:
